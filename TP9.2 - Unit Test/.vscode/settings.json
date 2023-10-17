@@ -1,0 +1,4 @@
+{
+    "dotnet-test-explorer.testProjectPath": "SimpleWebAPITests",
+    "dotnet-test-explorer.testFileSuffix": ".Tests.dll"
+}
